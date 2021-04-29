@@ -1,0 +1,7 @@
+This is a simple Machine Learning project to identify from a given set of patient data whether he/she will have diabetes or not. 
+The model used is a Random Forest Classifier as the output is either a diabetes patient or not.
+Streamlit is used for data visualiation and to create an interactive website. 
+The data set can be downloaded from Kaggle
+This code is been re coded from a publicly available code. 
+
+Key Highlights : Python / Machine Learning / RandomForestClassifier / Streamlit
